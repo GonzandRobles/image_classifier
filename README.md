@@ -13,7 +13,7 @@ ___
 * If not installed please install Git LFS.
   * Checkout this Tutorial with more details on how Git LFS works and how to install it.
 * Clone repository
-  * git clone https://github.com/buncem/flower-classifier-project.git
+  * git clone https://github.com/GonzandRobles/image_classifier.git
 
 ## Usage
 ___
