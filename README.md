@@ -9,13 +9,12 @@ ___
 * Create a conda environment with python=3.6 and the following packages.
   * conda create --name myenv python=3.6 numpy cython jupyter nb_conda_kernels scipy matplotlib
   * source activate myenv
-* Go to PyTorch website and follow directions to install PyTorch for your system.
+* Go to [PyTorch](https://pytorch.org/) website and follow directions to install PyTorch for your system.
 
 ## Clone requirements
-* If not installed please install Git LFS.
-  * Checkout this Tutorial with more details on how Git LFS works and how to install it.
+* If not installed please install [Git LFS](https://git-lfs.github.com/).
 * Clone repository
-  * git clone https://github.com/GonzandRobles/image_classifier.git
+  * git clone [here](https://github.com/GonzandRobles/image_classifier.git)
 
 ## Usage
 ___
@@ -46,7 +45,7 @@ ___
 ### Train
 
 **Download data**
-* Download data into main repository from here: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
+* Download data into main repository from [here](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
   * Download "Dataset images" and "The image labels"
   * Un-tar 102flowers.tar which should create a jpg directory.
   * At this point you should have "jpg" directory with 8189 jpgs in it and a imagelabels.mat file.
